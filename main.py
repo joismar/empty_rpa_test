@@ -1,4 +1,2 @@
-test = 40 + 2
-
 print("Hello, world!")
-print(test)
+print("Paulinho cabeça de plástico.")
